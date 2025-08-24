@@ -1,4 +1,4 @@
-# ⭐ Blaze Forward Bot: The Ultimate User Manual ⭐
+# ⭐ Blaze Forward Bot: The Ultimate User Manual
 
 Welcome! This comprehensive guide is designed to turn you into a power user of the Blaze Forward Bot. We'll cover everything from your first setup to mastering the most advanced automation features. The bot is built using Python 3.10.8 with the Pyrogram library.
 ---
@@ -173,4 +173,5 @@ The `/settings` command is your gateway to every configuration. The following se
 * `/ongoing`: View the status of active tasks.
 * `/reset`: Reset your personal settings.
 * `/my_plan`: Check your current subscription status.
+
 * `/plans`: View available premium plans.
