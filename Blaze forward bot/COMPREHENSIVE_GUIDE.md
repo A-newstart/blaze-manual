@@ -1,4 +1,4 @@
-# ⭐ Blaze Forward Bot: The Ultimate User Manual ⭐
+# ⭐ Blaze Forward Bot: The Ultimate User Manual
 
 Welcome! This comprehensive guide is designed to turn you into a power user of the Blaze Forward Bot. We'll cover everything from your first setup to mastering the most advanced automation features. The bot is built using Python 3.10.8 with the Pyrogram library.
 
@@ -422,3 +422,4 @@ The `/settings` command is your gateway to every configuration. The following se
 ---
 
 This comprehensive guide covers every aspect of the Blaze Forward Bot. Bookmark this document and refer back to it as you explore the bot's powerful features!
+
